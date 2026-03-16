@@ -1,0 +1,3 @@
+#main a[href*="/readings/confirm_clear"] {
+  display: none;
+}
